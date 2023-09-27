@@ -1,10 +1,10 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Excel, Tableau, PowerBI
+#### Technical Skills:  Python, SQL, Excel, Tableau, PowerBI
 
 ## Education
 
-####Msc Data Analytics/ Business Intelligence
+#### Msc Data Analytics/ Business Intelligence
 Saint Mary's University of Minnesota
 
 #### Graduate Certificate Artificial Intelligence
@@ -15,10 +15,10 @@ University of North Dakota
 
 ## Experience
 
-###Data Analyst
+### Data Analyst
 Feb 2020 - Sep 2021 · 1 yr 8 mosFeb 2020 - Sep 2021 · 1 yr 8 mos
 
-####Perfect World Training
+#### Perfect World Training
 - Designed, created, and updated relational database in SQL server 
 - Explored and manipulated data to obtain useful insight
 - Created reports and dashboards to measure company growth through user-centric KPI’s
